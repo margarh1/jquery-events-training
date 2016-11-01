@@ -9,3 +9,8 @@ h1 {
   text-align: center;
 }
 
+button {
+  outline: none;
+  margin: 5px;
+  border-radius: 20px;
+}
